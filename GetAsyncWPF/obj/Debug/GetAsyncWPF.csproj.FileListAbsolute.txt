@@ -1,0 +1,12 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\bin\Debug\GetAsyncWPF.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF.csproj.GenerateResource.Cache
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\bin\Debug\GetAsyncWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\bin\Debug\GetAsyncWPF.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\GetAsyncWPF\obj\Debug\GetAsyncWPF.pdb
