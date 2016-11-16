@@ -5,3 +5,6 @@
 quả sẽ chờ luồng tính toán chạy xong rồi mới ghi ra kết quả đó.
 + #region single thread: comment phần #region multi thread lại, chạy solution để thấy sự khác biệt giữa việc có sử dụng async, await với
 không sử dụng.
+
+
+Trong folder GetAsync là một ví dụ về GetAsync, PostAsync trong wpf, gửi request lên server và nhận về qua phương thức Get, Post
